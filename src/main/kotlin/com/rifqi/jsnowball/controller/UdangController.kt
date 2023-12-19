@@ -5,7 +5,7 @@ import com.rifqi.jsnowball.service.UdangService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
-//12
+//1
 @RestController
 @RequestMapping("/api/udang")
 class UdangController (
